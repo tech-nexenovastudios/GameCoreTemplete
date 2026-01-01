@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d5370ee0b64ed8bde72b3cc3d1c32a, type: 3}
+  m_Name: SG_Overlays
+  m_EditorClassIdentifier: 
+  groupName: Overlays
+  scenes:
+  - reference:
+      asset: {fileID: 102900000, guid: df7ad4e4d40a57e40952b4fa3c1974d8, type: 3}
+      guid: df7ad4e4d40a57e40952b4fa3c1974d8
+    sceneType: 6
+    loadAdditive: 1
+    persistent: 0
+  - reference:
+      asset: {fileID: 102900000, guid: 560d8a09bdaf27f4085c8bb346ac06d1, type: 3}
+      guid: 560d8a09bdaf27f4085c8bb346ac06d1
+    sceneType: 6
+    loadAdditive: 1
+    persistent: 0
+  - reference:
+      asset: {fileID: 102900000, guid: 2b5a1f7c5665bdf41b8d0efc058f014f, type: 3}
+      guid: 2b5a1f7c5665bdf41b8d0efc058f014f
+    sceneType: 7
+    loadAdditive: 1
+    persistent: 0

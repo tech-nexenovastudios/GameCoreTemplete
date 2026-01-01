@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d5370ee0b64ed8bde72b3cc3d1c32a, type: 3}
+  m_Name: SG_Core
+  m_EditorClassIdentifier: 
+  groupName: Core
+  scenes:
+  - reference:
+      asset: {fileID: 102900000, guid: 46e7699bcc835414ca5e91249267ade3, type: 3}
+      guid: 46e7699bcc835414ca5e91249267ade3
+    sceneType: 1
+    loadAdditive: 0
+    persistent: 1
+  - reference:
+      asset: {fileID: 102900000, guid: 9053576bbccc861498deea1976ef9d1d, type: 3}
+      guid: 9053576bbccc861498deea1976ef9d1d
+    sceneType: 2
+    loadAdditive: 1
+    persistent: 1
+  - reference:
+      asset: {fileID: 102900000, guid: 084e9fb37d5060b4e9339ac43c0a32b6, type: 3}
+      guid: 084e9fb37d5060b4e9339ac43c0a32b6
+    sceneType: 3
+    loadAdditive: 1
+    persistent: 1
