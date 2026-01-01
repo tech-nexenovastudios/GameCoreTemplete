@@ -3,7 +3,8 @@
     "version": "0.0.1",
     "displayName": "Gamecore Template",
     "description": "This is a mobile project template to fast forward the development.",
-    "unity": "6000.0.59f2",
+    "unity": "6000.0",
+    "unityRelease": "59f2",
     "dependencies": {
         "com.gitamend.unityutils": "https://github.com/adammyhre/Unity-Utils.git",
         "com.eflatun.scenereference": "https://github.com/starikcetin/Eflatun.SceneReference.git#4.1.1",
