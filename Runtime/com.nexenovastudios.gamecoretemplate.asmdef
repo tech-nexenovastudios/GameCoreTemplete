@@ -1,0 +1,31 @@
+{
+  "name": "com.nexenovastudios.gamecoretemplate",
+  "rootNamespace": "NexenovaStudios.GameCoreTemplate",
+  "references": [
+    "com.gitamend.unityutils",
+    "com.eflatun.scenereference",
+    "com.unity.adaptiveperformance.google.android",
+    "com.unity.addressables",
+    "com.unity.addressables.android",
+    "com.unity.device-simulator.devices",
+    "com.unity.feature.2d",
+    "com.unity.feature.mobile",
+    "com.unity.netcode.gameobjects",
+    "com.unity.purchasing",
+    "com.unity.recorder",
+    "com.unity.remote-config",
+    "com.unity.render-pipelines.universal",
+    "com.unity.services.ccd.management",
+    "com.unity.services.economy",
+    "com.unity.services.levelplay",
+    "com.unity.test-framework"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
