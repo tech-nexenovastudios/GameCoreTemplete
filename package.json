@@ -1,8 +1,8 @@
 {
-  "name": "com.nexenovastudio.gamecoretemplate",
+  "name": "com.nexenovastudios.gamecoretemplate",
   "version": "0.0.1",
   "displayName": "Gamecore Template",
-  "description": "This is an mobile project template to fast forward the development.",
+  "description": "This is a mobile project template to fast forward the development.",
   "unity": "6000.0.59f2",
   "dependencies": {
     "com.gitamend.unityutils": "https://github.com/adammyhre/Unity-Utils.git",
@@ -21,8 +21,8 @@
     "com.unity.services.ccd.management": "3.0.3",
     "com.unity.services.economy": "3.5.3",
     "com.unity.services.levelplay": "9.2.0",
-    "com.unity.test-framework": "1.6.0",
- },
+    "com.unity.test-framework": "1.6.0"
+  },
   "author": {
     "name": "Manish",
     "email": "tech@nexenovastudio.com",
